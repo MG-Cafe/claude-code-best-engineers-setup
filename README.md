@@ -5,7 +5,8 @@ from the team that builds Claude Code at Anthropic, ready to add to your own pro
 around Claude.
 
 The full guide to every practice, with the sources, is free in my community:
-[How the Best Engineers Use Claude Code, the lesson](https://mgai.school/mg-ai/about).
+[the lesson for this video](https://mgai.school/mg-ai/about) (join for free, then open
+[How the Best Engineers Use Claude Code](https://mgai.school/mg-ai/classroom/a1fa9b69-52f8-4fc6-beff-c4bb4736ffb4?lesson=f7684aa9-df32-4371-aa6f-67db4be49731) in the classroom, All AI YouTube Resources).
 
 ## Let Claude Code set it up for you
 
